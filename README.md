@@ -26,8 +26,8 @@
         -----------------------------
     <div>
         <img height="200em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotejg&show_icons=true&theme=bear&count_private=true" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonBJesus&show_icons=true&theme=bear&count_private=true" />
         <img height="200em"
-            src="https://github-readme-stats.vercel.app/api?username=kotejg&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+            src="https://github-readme-stats.vercel.app/api?username=JeffersonBJesus&show_icons=true&show_icons=true&theme=bear&count_private=true" />
     </div>
 
