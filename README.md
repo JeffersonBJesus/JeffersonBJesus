@@ -1,4 +1,4 @@
-# Olá, eu sou o Jeffersson (Jeff)! 👋
+# Olá, eu sou o Jefferson (Jeff)! 👋
 
 ### 👨‍💻 Desenvolvedor Backend Pleno | Java • Go • Spring Boot
 
